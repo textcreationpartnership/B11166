@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A deuout prayer of s. Ambrose, very expedie[n]t for all suche as prepare them selues to saye masse, or receaue ye blessed sacrament of the very body and bloud of Christ. Englished by Thomas Paynell. 1.5.5.5</title>
+            <author>Ambrose, Saint, Bishop of Milan, d. 397.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11166</idno><idno type="EEBO-CITATION">99848537</idno>
+  <idno type="VID">176695</idno>
+  <idno type="EEBO-PROQUEST">2240852691</idno>
+  <idno type="STC">STC 548.7</idno>
+  <idno type="STC">ESTC S113301</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848537e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176695)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 641:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A deuout prayer of s. Ambrose, very expedie[n]t for all suche as prepare them selues to saye masse, or receaue ye blessed sacrament of the very body and bloud of Christ. Englished by Thomas Paynell. 1.5.5.5</title>
+                  <author>Ambrose, Saint, Bishop of Milan, d. 397.</author>
+                  <author>Paynell, Thomas.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Paules churcheyarde, at the signe of the holy Goste, by Ihon Cawood, prynter to the Queenes highnes],</publisher>
+                  <pubPlace>[Imprynted at London :</pubPlace>
+                  <date>1555.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's name from colophon.</note>
+                  <note>Identified as STC 549a in reel guide.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176695:1"/>
+            <pb facs="tcp:176695:1"/>
+            <p>¶ A deuout pray<g ref="char:EOLunhyphen"/>er of s. Ambrose, very expediēt for all suche as pre<g ref="char:EOLhyphen"/>pare them selues to saye Masse, or to receaue y<seg rend="sup">e</seg> bles<g ref="char:EOLhyphen"/>sed Sacrament of the ve<g ref="char:EOLhyphen"/>ry body and bloud of Christ. Englished by Thomas Paynell.</p>
+            <figure>
+               <figDesc>illustrated border</figDesc>
+            </figure>
+            <p>1.5.5.5.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176695:2"/>
+            <head>¶ To the reuerende father in god, my Lorde Edmonde Bonor, Bysshope of Lon<g ref="char:EOLhyphen"/>don, Thomas Paynel wissheth all felicitie.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N asmuch as there hathe bene, and yet is (most reue<g ref="char:EOLhyphen"/>rend father) a nūber of leude and vnlearned persones, the which deride and skorne the holy masse, and the blessed sa<g ref="char:EOLhyphen"/>crifice there of both god and man: and saye that it is a thin<g ref="char:EOLunhyphen"/>ge newely forged, and of late dayes inuented of the papi<g ref="char:EOLhyphen"/>stes, as they in dirision doo name the true and catholyke seruauntes, of god: I thought
+<pb facs="tcp:176695:2"/> it very necessary to translate this excellente and deuoute prayer, as a thynge moste ex<g ref="char:EOLhyphen"/>pedient for those, which dayly doo prepare them selfes (as euery chaste and good preste shoulde doo) to celebrate and offer vppe vnto god thys he<g ref="char:EOLhyphen"/>uenlye and blessed sacrifice,<note place="margin">Augusti. ad Laur. Cap. <hi>110.</hi>
+               </note> for the quycke and the deade. The whyche prayer, as of it selfe it is verye frutefull, con<g ref="char:EOLhyphen"/>tayninge the hole mystery of the sacrament: so it declareth to suche as hereticallye and peruerslye vnto theyr owne destruccion (as wytnesseth, Saynt Peter) doo racke and wrynge scripture:<note place="margin">2. <hi>Pet.</hi> 3.</note> that the sa<g ref="char:EOLhyphen"/>crifice of the Masse, is no fi<g ref="char:EOLhyphen"/>gure, no Idoll (as they igno<g ref="char:EOLhyphen"/>miniouslye doo terme it) no
+<pb facs="tcp:176695:3"/> breade, nor no signification, but Christ hymselfe, hys very fleshe, and very bloude, bothe god and man, whome yf we worshyppe not in the holy sa<g ref="char:EOLhyphen"/>crament of the aultare,<note place="margin">
+                  <hi>Ioan.</hi> 6.</note> (as a number of wycked personnes refrayne to doo) we shal not es<g ref="char:EOLhyphen"/>cape (as saith,<note place="margin">De uerbis domini serm. Ioh. Serm. <hi>58.</hi>
+               </note> Saynt Austen) the eternall burning fyer and paynes of hell: for as it is no synne at all to adore and wor<g ref="char:EOLhyphen"/>shyppe Christ being really and presently (as sayeth Saynte Austen) in the sacrament,<note place="margin">Super Psal. <hi>98.</hi>
+               </note> so it is a moste detestable synne, not to adore and worshippe Christ in the same. And to preach and affirme the Masse (as they doo moste impudently) to be a newe inuencion of the papistes Saynte Ambrose the whiche
+<pb facs="tcp:176695:3"/> was twelue. C. yeares ago) in thys hys godly and vertu<g ref="char:EOLhyphen"/>ous prayer, doth playnely and apertly to theyr great rebuke and shame, confute them, and declare the contrarye. Thys prayer thus rudely englishyd I dedicate vnto youre good Lord eshyppe, as to a mooste puisant protector of thys most excellent sacrament of the re<g ref="char:EOLhyphen"/>all body and bloude of Christe the very substaūce and sacrifice of the blessed Masse: wisshynge your Lordeshyppe longe lyfe and continuance, aswel for the tuitiō and defense of the same, as of al other articles &amp; poyn<g ref="char:EOLhyphen"/>tes of the catholike faythe, the whyche in thys oure tyme (moste wycked for the worlde,
+<pb facs="tcp:176695:4"/> alas for pitie, as yet stuft with many false and hollowe harted bretherne) hath nede of suche stronge and faythfull champi<g ref="char:EOLhyphen"/>ons and defenders, as youre Lordeshyppe is, and to the vt<g ref="char:EOLhyphen"/>termost of your power hath bene to the great honor &amp; glory of God, to whom be all honour and glory for euer and euer.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:176695:4"/>
+            <head>¶ A deuoute prayer of S. Ambrose, very expedient for al suche as prepare them sel<g ref="char:EOLhyphen"/>ues to saye Masse, or to re<g ref="char:EOLhyphen"/>ceaue the blessed Sacra<g ref="char:EOLhyphen"/>ment of the verye bo<g ref="char:EOLhyphen"/>dye and bloude of Christe.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Iesu Christe, y<seg rend="sup">e</seg> high prieste and true bys<g ref="char:EOLhyphen"/>shop, that hast offered vp thi self vnto god the father,<note place="margin">
+                  <hi>Hebr.</hi> 9.</note> a pure hoste and sacrifice vpon the aultre of the crosse, for vs wretched &amp; miserable synners: and haste geuen vnto vs thy flesh to be eaten,<note place="margin">
+                  <hi>Ioan.</hi> 6.</note> and thy bloude to be dronken, and hast set the mi<g ref="char:EOLhyphen"/>sterye
+<pb facs="tcp:176695:5"/> therof in the vertue of the holy spirite,<note place="margin">
+                  <hi>Luc.</hi> 22.</note> sayinge: As ofte as ye shall doe these thin<g ref="char:EOLunhyphen"/>ges, ye shall doe them in re<g ref="char:EOLhyphen"/>membraunce of me. I besech thee for thy pretious bloude sake,<note place="margin">1. <hi>Cor.</hi> 6. <hi>&amp;.</hi> 7.</note> the great pryce of oure saluation: I pray the for this thy merueylous &amp; vnspeak<g ref="char:EOLhyphen"/>able charite, wherwith thou hast vouchesaued so to loue vs, vnworthi wretches, that in thy bloude thou myghtest puryfye and washe vs frome oure synnes: teache me thy vnworthy seruaunt, whome amonge other thy gyftes, y<seg rend="sup">u</seg> hast vouchesaued (not for a<g ref="char:EOLhyphen"/>nye of my merites, but onely of the lenitie and facilite of thy mercye) to call me to the offyce of a preist. I besech the
+<pb facs="tcp:176695:5"/> to teache me thoroughe thy holye spyryte, with suche re<g ref="char:EOLhyphen"/>uerence and honour, &amp; with suche deuotion and feare, to handle so great a mistery, as it ought to be handled, and as it becommeth me to doo. Cause me, O Lorde Iesu Christe, thorough thy grace, continuallye to beleue &amp; vn<g ref="char:EOLhyphen"/>derstande, to iudge, &amp; firme<g ref="char:EOLhyphen"/>lye to holde, to saye, and to thynke, that thynge of so great a mysterye, that maye please thee, and that is moste expediente for my soule: Let and suffer thy good spirite, enter into my soule, the whi<g ref="char:EOLhyphen"/>che may sounde there with<g ref="char:EOLhyphen"/>oute anye sounde or noyse of words. Cause it to pronoūce and speake the hole verytye
+<pb facs="tcp:176695:6"/> and truth of so many greate mysteries, for they are pro<g ref="char:EOLhyphen"/>found and depe, and couered with a certayne holye vayle and couerynge. Graunt me for thy great clemencye and mekenes, this daye &amp; euer<g ref="char:EOLhyphen"/>more, to celebrate the solem<g ref="char:EOLhyphen"/>nities of the Masse, with a pure heart and mynde. De<g ref="char:EOLhyphen"/>lyuer my herte from all vn<g ref="char:EOLhyphen"/>cleane, and vntrue thynges, from vayne and hurteful co<g ref="char:EOLhyphen"/>gitations and thoughtes. Defende me with the merci<g ref="char:EOLhyphen"/>full, and sure defence of thy blessed Aungelles, and with so stronge a custody &amp; garde, that the enemies of all good<g ref="char:EOLhyphen"/>nes, throughe the vertue of so great a mysterye, and the hand and power of thy holy
+<pb facs="tcp:176695:6"/> Aungell, maye depart hence confounded. Repell from me O Lorde Iesu Christe, and from al thy seruauntes, that moost euyll spirite of pryde, of vayne glorye, of enuye, of anger, of fornication, of vn<g ref="char:EOLhyphen"/>clennes, of doubtfulnes, and of blasphemye. Let them be confounded that persecute vs:<note place="margin">
+                  <hi>Psal.</hi> 39,</note> let thē perysh that make hast to destroye all thynges. O kynge of all vertue, the louer and God of chastitie, &amp; integritie, extinguyshe, and quenche in my bodye, with y<seg rend="sup">e</seg> celestial dewe of thy blessing, all the burnynge fome, and tyklynges of carnall lustes, that the rule of all chastitie, both of body and soule, maye remaine and continue in me.
+<pb facs="tcp:176695:7"/> Mortyfye in me the pryckes and stynges of the fleshe, and of all voluptuous commoti<g ref="char:EOLhyphen"/>ons, and geue me, with other thy gyftes, true, and perpe<g ref="char:EOLhyphen"/>tuall chastitie, the whyche in veritie and truth doe please thee, that I maye be hable with a chast bodye, &amp; a chaste soule and hearte, to offer vp vnto thee, the sacrifyce of prayse, and thankesgeuyng. With howe greate contrici<g ref="char:EOLhyphen"/>on, and aboundaunt teares, O Lorde Iesu Christe, with howe greate reuerence, and feare, with howe great cha<g ref="char:EOLhyphen"/>stitie and purenes of mynde, shoulde this diuine sacryfyce be celebrated and honored? where in thy fleshe in verye dede is receaued,<note place="margin">
+                  <hi>Ioan.</hi> 6.</note> wherin thy
+<pb facs="tcp:176695:7"/> bloude in very dede is dron<g ref="char:EOLhyphen"/>ken, where that thing which is moste hyghest, and mooste excellent, is annexed to that, that is most bace and lowest, where the presence of thy ho<g ref="char:EOLunhyphen"/>ly aungels is present and at hande, where thou thy selfe moste wonderfullye and vn<g ref="char:EOLhyphen"/>speakeablye arte constituted and ordeined, both the priest and the sacrifice. Who can worthely celebrate, and reue<g ref="char:EOLunhyphen"/>rentlye honour this thynge, excepte thou the God omni<g ref="char:EOLhyphen"/>potent do make him worthy that doth offer it? I knowe, and for a surety I know, and confesse it vnto thy mercye and goodnes, that I, for my manifold sinnes, and infinite negligences, am not worthy
+<pb facs="tcp:176695:8"/> to approche vnto suche a greate mystery: but certenly I do knowe, and beleue it w<seg rend="sup">t</seg> all my hearte, and wyth my mouth I doo confesse it, that thou maist make me worthi. For thou onely canst mundi<g ref="char:EOLhyphen"/>fie &amp; clense,<note place="margin">
+                  <hi>Iob,</hi> 14.</note> that is of vnclene sede conceyued, and of y<seg rend="sup">e</seg> syn<g ref="char:EOLhyphen"/>full canst make both iust and holy. I beseche the for thys thy omnipotent and almigh<g ref="char:EOLunhyphen"/>ty power, to graunt vnto me a synner, to celebrate &amp; offer this heauenly sacrifice wyth feare and tremblynge, with a pure heart, and aboundant teares, with spiritual ioye &amp; celestial gladnes. Cause my mynde to fele and perceiue y<seg rend="sup">e</seg> swetenes of thy blessed pre<g ref="char:EOLhyphen"/>sence, &amp; the daye and nyght-watchinges
+<pb facs="tcp:176695:8"/> of thy holy aun<g ref="char:EOLhyphen"/>gelles aboute me. For I (O Lorde) hauynge thy mooste reuerente passion in remem<g ref="char:EOLhyphen"/>braunce, doo approche and come vnto thy aulter (al<g ref="char:EOLhyphen"/>thoughe I be a synner) to of<g ref="char:EOLhyphen"/>fer vnto thee that sacrifyce, the whiche thou thy self did<g ref="char:EOLhyphen"/>dest institute, and commaūde to be offered for our saluatiō in the remembraunce of the.<note place="margin">
+                  <hi>Luc.</hi> 22</note> Therefore, O moost hyghe God, and mooste sweeteste Christ Iesu, receaue this sa<g ref="char:EOLhyphen"/>crifyce for thy holye churche, and for al thy people, the whi<g ref="char:EOLunhyphen"/>che thou haste redemed and saued w<seg rend="sup">t</seg> thy precious bloud. And forasmuche as it is thy wyll and pleasure, that I a synner should be a meane be<g ref="char:EOLhyphen"/>twyxte
+<pb facs="tcp:176695:9"/> thee and thy people: thou shalte not (albeit thou doest not fynde in me the te<g ref="char:EOLhyphen"/>stimony of good workes) re<g ref="char:EOLhyphen"/>fuse the office of thy dispensa<g ref="char:EOLunhyphen"/>tion vnto me cōmitted. Nor the pryce of theyr saluation shall not perysh thorough me thy vnworthy seruaunte,<note place="margin">
+                  <hi>Col.</hi> 3.</note> for whome, beynge made a salu<g ref="char:EOLhyphen"/>tiferous hoste and sacrifyce, thou wast content to be their redemption. Therefore. O Lorde, here I set before thee (yf thou disdayne not merci<g ref="char:EOLhyphen"/>fully to beholde vs) the tri<g ref="char:EOLhyphen"/>bulations and perilles of thy people, the sorowefulnes of those that be in captiuite, the miseries of the fatherlesse, the necessities of pylgrimes, the pouertie of the weke and
+<pb facs="tcp:176695:9"/> feble, y<seg rend="sup">e</seg> desperations of those that be sycke, the feblenes of the aged, the sythynges of those whiche are yonge, the vowes of virgins, and the lamentations of wydowes. Thou arte mercifull O lord, vnto all men,<note place="margin">
+                  <hi>Sap.</hi> 11.</note> nor thou hatest nothynge that thou hast cre<g ref="char:EOLhyphen"/>ated and made. Remember what and whereof oure sub<g ref="char:EOLhyphen"/>staunce is.<note place="margin">
+                  <hi>Mala.</hi> 2</note> Thou art our fa<g ref="char:EOLhyphen"/>ther, be not muche angrye, nor holde not the multitude of thy bowelles and wrathe vpon vs, for we laye, nor pre<g ref="char:EOLunhyphen"/>sent not oure prayers before thy face in oure owne rygh<g ref="char:EOLhyphen"/>teousnes, but in thi manifold and greate mercies. Take from vs, O Lorde, oure ini<g ref="char:EOLhyphen"/>quities, and mekelye kyndle
+<pb facs="tcp:176695:10"/> the fyer of thy holy spirite in vs. Remoue from our fleshe a stony herte, and geue vs a fleshly and a softe hearte, the whiche maye feare,<note place="margin">
+                  <hi>Ezec.</hi> 11. <hi>&amp;.</hi> 36.</note> loue, and honoure thee, delite in thee, folow thee, and haue the frui<g ref="char:EOLunhyphen"/>tion of thee. O Lorde we be<g ref="char:EOLhyphen"/>seche thy clemency, with a fa<g ref="char:EOLunhyphen"/>uorable countenaunce to be<g ref="char:EOLhyphen"/>holde thy familye, that doth attende and wayte for the offyce and duetye of thy ho<g ref="char:EOLhyphen"/>ly name. And that no mans vowe be voyde, no mans pe<g ref="char:EOLhyphen"/>tition be frustrate, infude, and put thou suche orations, and prayers into oure myn<g ref="char:EOLhyphen"/>des, as thou thy selfe, which arte merciful, shalte delite to heare and graunte. Also we praye the, O holy father, for
+<pb facs="tcp:176695:10"/> the spirites &amp; soules of those whiche are departed,<note place="margin">He pray<g ref="char:EOLhyphen"/>eth for the deade</note> y<seg rend="sup">t</seg> thys great and hygh sacrifyce of pitie may be vnto them eter<g ref="char:EOLunhyphen"/>nall saluatiō, continual helth and ioye, and an euerlasting recreation and refreshynge. O my lorde God, suffer and let them haue a greate and a full ioye this day in thee, the lyuing and true breade, that dyddest descend from heauē, and takyng away the sinnes of the worlde, doest geue lyfe vnto the world,<note place="margin">
+                  <hi>Ioan.</hi> 6.</note> with y<seg rend="sup">e</seg> holye and blessed fleshe of the im<g ref="char:EOLhyphen"/>maculate lambe: And y<seg rend="sup">t</seg> they beyng thus satisfyed &amp; com<g ref="char:EOLhyphen"/>forted with the fountayne of pitie,<note place="margin">
+                  <hi>Ioan.</hi> 19.</note> the whiche thoroughe Longes speare gusshed out of the syde of oure Lorde
+<pb facs="tcp:176695:11"/> whiche was crucified, maye reioyce in thy holye lawde &amp; glorye. O lorde I desyre thy clemencye, that the fulnes of thy diuinite and godheade, may descend vpō this bread and wyne: and furthermore that the inuisible forme, and incomprehensible maiestie of thy inuisible spirite maye des<g ref="char:EOLunhyphen"/>cend vpon it, as it descended in tymes past, vpō the hostes and sacrifice of oure forefa<g ref="char:EOLhyphen"/>thers, the whiche shall effec<g ref="char:EOLhyphen"/>tuously, make oure oblation thy very body and bloude, &amp; teache me thy vnworthye preist and minister, so to han<g ref="char:EOLunhyphen"/>dle so great and so excellente a sacrifice, that mekelye, and benignly thou mayst receaue it at my hande, to the saluati<g ref="char:EOLunhyphen"/>on
+<pb facs="tcp:176695:11"/> of all men, both quycke and deade.</p>
+            <p>I besech the O lorde for the most holy misterie of the body and bloud sake, wherewyth we be dayly fedde, nourished, wasshed, and sanctified in thy holy churche, and made par<g ref="char:EOLhyphen"/>takers of thy onely &amp; mooste excellent godhed, to graunte and geue me thy holy vertu<g ref="char:EOLhyphen"/>ous, that replenished wyth them, I maye with a good conscience approche vnto thy aultare, so that these thy ce<g ref="char:EOLhyphen"/>lestiall and heauenlye Sa<g ref="char:EOLhyphen"/>cramentes maye be vnto me lyfe and saluation. Thou dydest say with thy holy and blessed mouth,<note place="margin">
+                  <hi>Ioan.</hi> 6.</note> y<seg rend="sup">e</seg> bread which I shall geue for the lyfe of the worlde, is my fleshe. And he
+<pb facs="tcp:176695:12"/> that eateth me, shall lyue for me, he shall dwell in me, and I in hym, I am the lyuynge breade that descendyd from heauen, he that shall eate of thys breade, shall lyue eter<g ref="char:EOLhyphen"/>nally. O most swetest breade make hole the palate of my herte, that I may fele &amp; taste the swetnes of thy loue, heale it from all diseses, that I loue nothyng that is fayre &amp; bew<g ref="char:EOLhyphen"/>tifull besydes thee. O mooste goodly breade, contaynynge in the all the delectation and swetenes of tastes, that doth continually recreate &amp; refreshe vs, let my heart eate the, and the bowells of my soule be replenished with the swetnes of thy taste &amp; sauer. The angel dothe eate the w<seg rend="sup">t</seg>
+               <pb facs="tcp:176695:12"/> a full mouthe, and the stran<g ref="char:EOLhyphen"/>ger (as he may) shal eate the, that he refresshed by the way with such ecclesiastical foode, faynte not. O holy breade, y<seg rend="sup">e</seg> breade of lyfe. O moste fayre breade. O moste cleane bread that didest discend, and come from heauen,<note place="margin">
+                  <hi>Ioan.</hi> 6.</note> and doest geue life to the worlde, enter into my heart, and purge me of all filthines both of body &amp; soule, enter into my soule, heale me and sanctifie me both wyth in and without, be thou a de<g ref="char:EOLhyphen"/>fence and a perpetuall helthe both of my bodye and soule. Reiecte those from me, that doo laye wayte for me. Re<g ref="char:EOLhyphen"/>pell my ennemyes farre from my presence, that I bothe inwardly and outwardly, by
+<pb facs="tcp:176695:13"/> the defendyd, maye come the strayte way vnto thy kynge<g ref="char:EOLhyphen"/>dome, where no mysteryes as in this time are vsed wher we whan thou shalt resigne &amp; delyuer vp the kyngedome,<note place="margin">1. <hi>Cor.</hi> 15.</note> vnto god, shal se y<seg rend="sup">e</seg> face to face and god shalbe al in al. Then thou shalt in suche wyse fede me and with a munthely saci<g ref="char:EOLhyphen"/>ate so saciate me with thy self that I shall neuermore be hūgry nor thrusty, the which doest lyue and raygne with the selfe same god the father and the holy gost for euer.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprynted at London in Paules churcheyarde, at the signe of the holy Goste, by Ihon Cawood, Prynter to the Queenes highnes,</p>
+            <p>
+               <hi>Cum priuelegio Regiae Maiestatis.</hi>
+            </p>
+            <pb facs="tcp:176695:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
